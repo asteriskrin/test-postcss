@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/scss/main.scss"],"names":[],"mappings":"AACA;IACI,UAAqB;AACzB;;AAEA;;AAEA;;AAFA;;AAEA;;AAFA;;AAEA","file":"main.css","sourcesContent":["$color_primary: red;\r\nh1 {\r\n    color: $color_primary;\r\n}\r\n\r\n:fullscreen {\r\n    \r\n}"]}
